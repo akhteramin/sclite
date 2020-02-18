@@ -1,0 +1,74 @@
+DETAILED OVERALL REPORT FOR THE SYSTEM: /tsv_out/scoring/hyp.trn
+
+SENTENCE RECOGNITION PERFORMANCE
+
+ sentences                                          13
+ with errors                             46.2%   (   6)
+
+   with substitions                       0.0%   (   0)
+   with deletions                         0.0%   (   0)
+   with insertions                       46.2%   (   6)
+
+
+WORD RECOGNITION PERFORMANCE
+
+Percent Total Error       =   30.0%   (  12)
+
+Percent Correct           =  100.0%   (  40)
+
+Percent Substitution      =    0.0%   (   0)
+Percent Deletions         =    0.0%   (   0)
+Percent Insertions        =   30.0%   (  12)
+Percent Word Accuracy     =   70.0%
+
+
+Ref. words                =           (  40)
+Hyp. words                =           (  52)
+Aligned words             =           (  52)
+
+CONFUSION PAIRS                  Total                 (0)
+                                 With >=  1 occurrences (0)
+
+     -------
+         0
+
+
+
+INSERTIONS                       Total                 (1)
+                                 With >=  1 occurrences (1)
+
+   1:   12  ->  like
+     -------
+        12
+
+
+
+DELETIONS                        Total                 (0)
+                                 With >=  1 occurrences (0)
+
+     -------
+         0
+
+
+
+SUBSTITUTIONS                    Total                 (0)
+                                 With >=  1 occurrences (0)
+
+     -------
+         0
+
+
+* NOTE: The 'Substitution' words are those reference words
+        for which the recognizer supplied an incorrect word.
+
+
+FALSELY RECOGNIZED               Total                 (0)
+                                 With >=  1 occurrences (0)
+
+     -------
+         0
+
+
+* NOTE: The 'Falsely Recognized' words are those hypothesis words
+        which the recognizer incorrectly substituted for a reference word.
+

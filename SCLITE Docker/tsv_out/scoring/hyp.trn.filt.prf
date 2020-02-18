@@ -1,0 +1,111 @@
+NIST_TEXT_ALIGNMENT
+VERSION 0.1
+
+
+		DUMP OF SYSTEM ALIGNMENT STRUCTURE
+
+System name:   /tsv_out/scoring/hyp.trn
+Ref file:      /tmp/ref.trn.filt
+Hyp file:      /tsv_out/scoring/hyp.trn.filt
+Creation date: "Tue Feb 18 15:53:46 2020"
+Fragment Correct Flag Set
+Optionally Deletable Flag Set
+
+Speaker Count: 2
+Speakers: 
+    0:  ﻿
+    1:  108
+
+
+Speaker sentences   0:  ﻿   utt# 0 of 1
+id: (﻿1089-134686-0007__10)
+Scores: (#C #S #D #I) 4 0 0 0
+REF:  what's the weather like 
+HYP:  what's the weather like 
+Eval:                         
+
+Speaker sentences   1:  108   utt# 0 of 12
+id: (1089-134686-0007__11)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  hello my friend 
+HYP:  hello my friend 
+Eval:                 
+
+Speaker sentences   1:  108   utt# 1 of 12
+id: (1089-134686-0007__12)
+Scores: (#C #S #D #I) 3 0 0 2
+REF:  **** what's the weather **** 
+HYP:  LIKE what's the weather LIKE 
+Eval: I                       I    
+
+Speaker sentences   1:  108   utt# 2 of 12
+id: (1089-134686-0007__13)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  hello my friend 
+HYP:  hello my friend 
+Eval:                 
+
+Speaker sentences   1:  108   utt# 3 of 12
+id: (1089-134686-0007__14)
+Scores: (#C #S #D #I) 3 0 0 2
+REF:  **** what's the weather **** 
+HYP:  LIKE what's the weather LIKE 
+Eval: I                       I    
+
+Speaker sentences   1:  108   utt# 4 of 12
+id: (1089-134686-0007__15)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  hello my friend 
+HYP:  hello my friend 
+Eval:                 
+
+Speaker sentences   1:  108   utt# 5 of 12
+id: (1089-134686-0007__16)
+Scores: (#C #S #D #I) 3 0 0 2
+REF:  **** what's the weather **** 
+HYP:  LIKE what's the weather LIKE 
+Eval: I                       I    
+
+Speaker sentences   1:  108   utt# 6 of 12
+id: (1089-134686-0007__17)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  hello my friend 
+HYP:  hello my friend 
+Eval:                 
+
+Speaker sentences   1:  108   utt# 7 of 12
+id: (1089-134686-0007__18)
+Scores: (#C #S #D #I) 3 0 0 2
+REF:  **** what's the weather **** 
+HYP:  LIKE what's the weather LIKE 
+Eval: I                       I    
+
+Speaker sentences   1:  108   utt# 8 of 12
+id: (1089-134686-0007__19)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  hello my friend 
+HYP:  hello my friend 
+Eval:                 
+
+Speaker sentences   1:  108   utt# 9 of 12
+id: (1089-134686-0007__20)
+Scores: (#C #S #D #I) 3 0 0 2
+REF:  **** what's the weather **** 
+HYP:  LIKE what's the weather LIKE 
+Eval: I                       I    
+
+Speaker sentences   1:  108   utt# 10 of 12
+id: (1089-134686-0007__21)
+Scores: (#C #S #D #I) 3 0 0 0
+REF:  hello my friend 
+HYP:  hello my friend 
+Eval:                 
+
+Speaker sentences   1:  108   utt# 11 of 12
+id: (1089-134686-0007__22)
+Scores: (#C #S #D #I) 3 0 0 2
+REF:  **** what's the weather **** 
+HYP:  LIKE what's the weather LIKE 
+Eval: I                       I    
+
+

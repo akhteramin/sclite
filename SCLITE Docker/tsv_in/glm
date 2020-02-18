@@ -1,0 +1,15 @@
+;;  File: glm
+;;
+
+* name "glm"
+* desc "The Global Mapping File (GLM) - Prepared by M Doulaty"
+* format = 'NIST1'
+* max_nrules = '2500'
+* copy_no_hit = 'T'
+* case_sensitive = 'F'
+
+[HUH-UH]  =>  [{ %HESITATION / @ }]     / [ ] __ [ ] ;; hesitation token
+[UH] =>  [{ %HESITATION / @ }]     / [ ] __ [ ] ;; hesitation token
+[UM] =>  [{ %HESITATION / @ }]     / [ ] __ [ ] ;; hesitation token
+
+;; END of GLM file

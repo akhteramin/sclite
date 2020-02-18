@@ -1,0 +1,45 @@
+<SYSTEM title="/tsv_out/scoring/hyp.trn" ref_fname="/tmp/ref.trn.filt" hyp_fname="/tsv_out/scoring/hyp.trn.filt" creation_date="Tue Feb 18 15:53:46 2020" format="2.4" frag_corr="TRUE" opt_del="TRUE" weight_ali="FALSE" weight_filename="">
+<SPEAKER id="﻿">
+<PATH id="(﻿1089-134686-0007__10)" word_cnt="4" sequence="0">
+C,"what's","what's":C,"the","the":C,"weather","weather":C,"like","like"
+</PATH>
+</SPEAKER>
+<SPEAKER id="108">
+<PATH id="(1089-134686-0007__11)" word_cnt="3" sequence="1">
+C,"hello","hello":C,"my","my":C,"friend","friend"
+</PATH>
+<PATH id="(1089-134686-0007__12)" word_cnt="5" sequence="2">
+I,,"like":C,"what's","what's":C,"the","the":C,"weather","weather":I,,"like"
+</PATH>
+<PATH id="(1089-134686-0007__13)" word_cnt="3" sequence="3">
+C,"hello","hello":C,"my","my":C,"friend","friend"
+</PATH>
+<PATH id="(1089-134686-0007__14)" word_cnt="5" sequence="4">
+I,,"like":C,"what's","what's":C,"the","the":C,"weather","weather":I,,"like"
+</PATH>
+<PATH id="(1089-134686-0007__15)" word_cnt="3" sequence="5">
+C,"hello","hello":C,"my","my":C,"friend","friend"
+</PATH>
+<PATH id="(1089-134686-0007__16)" word_cnt="5" sequence="6">
+I,,"like":C,"what's","what's":C,"the","the":C,"weather","weather":I,,"like"
+</PATH>
+<PATH id="(1089-134686-0007__17)" word_cnt="3" sequence="7">
+C,"hello","hello":C,"my","my":C,"friend","friend"
+</PATH>
+<PATH id="(1089-134686-0007__18)" word_cnt="5" sequence="8">
+I,,"like":C,"what's","what's":C,"the","the":C,"weather","weather":I,,"like"
+</PATH>
+<PATH id="(1089-134686-0007__19)" word_cnt="3" sequence="9">
+C,"hello","hello":C,"my","my":C,"friend","friend"
+</PATH>
+<PATH id="(1089-134686-0007__20)" word_cnt="5" sequence="10">
+I,,"like":C,"what's","what's":C,"the","the":C,"weather","weather":I,,"like"
+</PATH>
+<PATH id="(1089-134686-0007__21)" word_cnt="3" sequence="11">
+C,"hello","hello":C,"my","my":C,"friend","friend"
+</PATH>
+<PATH id="(1089-134686-0007__22)" word_cnt="5" sequence="12">
+I,,"like":C,"what's","what's":C,"the","the":C,"weather","weather":I,,"like"
+</PATH>
+</SPEAKER>
+</SYSTEM>
